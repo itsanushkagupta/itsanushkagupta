@@ -1,5 +1,4 @@
 
-[![MasterHead](https://i.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.webp.)]
 
 <h1 align="center">Hi 👋, I'm Anushka Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
